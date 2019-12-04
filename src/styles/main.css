@@ -1,0 +1,33 @@
+/* markdown样式 */
+h2 {
+  font-weight: 600;
+  line-height: 35px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+h3 {
+  font-weight: 600;
+  line-height: 35px;
+  font-size: 16px;
+}
+img {
+  height: 300px;
+}
+
+p {
+  margin: 0 0 20px 0;
+  line-height: 26px;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
+  font-size: 16px;
+  color: #4a4a4a;
+  font-weight: 400
+}
+
+.el-message-box__title {
+  font-size: 16px;
+}
+
+.el-message-box__message p {
+  color: #4a4a4a;
+  font-size: 14px;
+}
